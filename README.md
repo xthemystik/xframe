@@ -55,7 +55,7 @@ Getting Started
 
 To get started with XFrame, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/X-The-Mystic/xframe.git`
+1. Clone the repository: `git clone https://github.com/xthemystik/xframe.git`
 2. Install dependencies: `chmod +x installation.sh && ./installation.sh`
 3. CD into the relevant directory (example: `cd malware/exploits/windows/eternalleaks/eternalchampion`)
 4. Run the exploit or relevant tool: (example: `python poc1.py`)

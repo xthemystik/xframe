@@ -151,7 +151,7 @@ class DDoSAttackTool:
             print("Invalid attack type selected.")
             return None
 
-    packet_data = b"You are an idiot. -X the Mystic" 
+    packet_data = b"You are an idiot. -xthemystik" 
     def udp_flood_attack(self, target_ip, port, num_packets, burst_interval):
         """
         Performs a UDP flood attack on the specified target IP address and port.
