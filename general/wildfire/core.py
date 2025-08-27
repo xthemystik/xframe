@@ -1,4 +1,6 @@
 import os
+
+from general.wildfire.src.hyperparameter_tuning import build_model
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'  # Suppress TensorFlow logging (0 = all, 1 = info, 2 = warning, 3 = error)
 
 import threading
